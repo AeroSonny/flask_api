@@ -1,2 +1,2 @@
-ml4J
-Personal_project
+Personal toy Project
+aerosonny@naver.com
